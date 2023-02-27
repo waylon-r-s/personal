@@ -5,17 +5,19 @@ body {
 h1 {
       font: bold 22px serif;
       border-style: none none solid;
-      border-color: #ff00ff
+      border-color: #ffb0ff;
+      text-align: center;
 }
    
 h2 {
       font: bold 18px serif;
       border-style: none none solid;
-      border-color: #ff00ffb
+      border-color: #ffb0ff;
+      text-align: center;
 }
 
 p {
     font: 12px serif;
-      border-style: solid;
-      border-color: #ff00ff;
+      border-style: dotted;
+      border-color: #ffb0ff;
 }
