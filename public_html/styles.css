@@ -4,7 +4,7 @@ body {
 
 h1 {
       font: bold 22px serif;
-      font-color: #200300;
+      color: #200300;
       border-style: none none solid;
       border-color: #200300;
       text-align: center;
@@ -12,7 +12,7 @@ h1 {
    
 h2 {
       font: bold 18px serif;
-      font-color: #200300;
+      color: #200300;
       border-style: none none solid;
       border-color: #200300;
       text-align: center;
@@ -21,12 +21,12 @@ h2 {
 
 p {
      font: 12px serif;
-     font-color: #200300;
+     color: #200300;
 }
 
 p.excerpt {
      font: 12px serif;
-     font-color: #200300;
+     color: #200300;
      border-style: solid;
      border-color: #8a5a20;
      background-color: #ffcd8f;
