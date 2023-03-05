@@ -1,23 +1,34 @@
 body {
-    background-color: #fff0ff;
+    background-color: #fff6c7;
 }
 
 h1 {
       font: bold 22px serif;
+      font-color: #200300;
       border-style: none none solid;
-      border-color: #ffb0ff;
+      border-color: #200300;
       text-align: center;
 }
    
 h2 {
       font: bold 18px serif;
+      font-color: #200300;
       border-style: none none solid;
-      border-color: #ffb0ff;
+      border-color: #200300;
       text-align: center;
 }
 
+
 p {
-    font: 12px serif;
-      border-style: dotted;
-      border-color: #ffb0ff;
+     font: 12px serif;
+     font-color: #200300;
 }
+
+p.excerpt {
+     font: 12px serif;
+     font-color: #200300;
+     border-style: solid;
+     border-color: #8a5a20;
+     background-color: #ffcd8f;
+}
+     
