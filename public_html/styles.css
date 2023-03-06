@@ -47,7 +47,8 @@ img {
 }
 
 /*links(/
-a {
+a:link {
      font: 12px serif;
      font-style: italic;
+     font-color: #200300;
 }
