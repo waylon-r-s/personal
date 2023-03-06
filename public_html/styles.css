@@ -1,10 +1,10 @@
 /*background color*/
 body {
     background-color: #fff6c7;
-    margin: 0px;
+    margin: 100px;
 }
 
-/*large headers*'/
+/*large headers*/
 h1 {
       font: bold 22px serif;
       color: #200300;
@@ -44,6 +44,9 @@ img {
      height: auto;
      border: double;
      border-color: #200300;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
 }
 
 /*links*/
