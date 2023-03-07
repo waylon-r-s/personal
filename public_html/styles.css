@@ -7,7 +7,7 @@ body {
 /*large headers*/
 h1 {
       font: bold 22px serif;
-      color: #200300;
+      color: #630a01;
       border-style: none none solid;
       border-color: #200300;
       text-align: center;
@@ -16,23 +16,23 @@ h1 {
 /*medium headers*/
 h2 {
       font: bold 18px serif;
-      color: #200300;
+      color: #630a01;
       border-style: none none solid;
-      border-color: #200300;
+      border-color: #630a01;
       text-align: center;
 }
 
 /*paragraphs*/
 p {
      font: 12px serif;
-     color: #200300;
+     color: #630a01;
      margin: 25px 250px 25px 250px;
 }
 
 /*paragraphs for excerpts*/
 p.excerpt {
      font: 12px serif;
-     color: #200300;
+     color: #630a01;
      border-style: outset;
      border-color: #cfa26b;
      background-color: #ffcd8f;
@@ -44,7 +44,7 @@ img {
      max-width: 100%;
      height: auto;
      border: double;
-     border-color: #200300;
+     border-color: #630a01;
      display: block;
      margin-left: auto;
      margin-right: auto;
@@ -54,15 +54,17 @@ img {
 a:link {
      font: 12px serif;
      font-style: italic;
-     font-color: #200300;
+     font-color: #630a01;
 }
 
 /*buttons*/
 .button {
-     background-color: #200300;
+     background-color: #630a01;
      border: outset;
      padding: 16px 32px;
      display: block;
+     text-aligh: center;
+     text-decoration: none;
      font-size: 16px;
      margin: 4px 2px;
      cursor: pointer;
