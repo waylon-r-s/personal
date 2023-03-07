@@ -56,3 +56,16 @@ a:link {
      font-style: italic;
      font-color: #200300;
 }
+
+/*buttons*/
+.button {
+     background-color: #200300;
+     border: outset;
+     padding: 16px 32px;
+     display: block;
+     font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+}
+     
+    
