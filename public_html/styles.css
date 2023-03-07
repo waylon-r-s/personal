@@ -57,6 +57,12 @@ a:link {
      color: #9e1103;
 }
 
+a:visited {
+     font: 12px serif;
+     font-style: italic;
+     color: #9e1103;
+}
+
 /*buttons*/
 .button {
      background-color: #630a01;
