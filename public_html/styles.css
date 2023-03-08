@@ -53,13 +53,13 @@ img {
 /*links*/
 a:link {
      font: 12px serif;
-     color: #9e1103;
+     color: #ffffff;
 }
 
 a:visited {
      font: 12px serif;
      font-style: italic;
-     color: #9e1103;
+     color: #ffffff;
 }
 
 /*buttons*/
