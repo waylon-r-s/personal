@@ -52,14 +52,20 @@ img {
 
 /*links*/
 a:link {
-     font: 12px serif;
+     font: 16px serif;
      color: #ffffff;
 }
 
 a:visited {
-     font: 12px serif;
+     font: 16px serif;
      font-style: italic;
      color: #ffffff;
+}
+
+a.line {
+     font: 12px serif;
+     font-style: italic;
+     color: #630a01;
 }
 
 /*buttons*/
