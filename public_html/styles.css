@@ -53,7 +53,6 @@ img {
 /*links*/
 a:link {
      font: 12px serif;
-     font-style: italic;
      color: #9e1103;
 }
 
@@ -69,7 +68,7 @@ a:visited {
      border: outset;
      border-color: #400600;
      padding: 16px 32px;
-     display: block;
+     display: inline-block;
      text-aligh: center;
      color: #ffffff;
      text-decoration: none;
