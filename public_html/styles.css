@@ -83,4 +83,18 @@ a.line {
      cursor: pointer;
 }
      
-    
+.button-bar {
+     background-color: #630a01;
+     border: outset;
+     border-color: #400600;
+     padding: 16px 32px;
+     display: inline-block;
+     text-aligh: center;
+     color: #ffffff;
+     text-decoration: none;
+     font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+     position: relative;
+     top: -75px;
+}
