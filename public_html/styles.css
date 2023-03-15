@@ -24,14 +24,14 @@ h2 {
 
 /*paragraphs*/
 p {
-     font: 12px serif;
+     font: 14px serif;
      color: #630a01;
      margin: 25px 250px 25px 250px;
 }
 
 /*paragraphs for excerpts*/
 p.excerpt {
-     font: 12px serif;
+     font: 14px serif;
      color: #630a01;
      border-style: outset;
      border-color: #cfa26b;
@@ -63,7 +63,7 @@ a:visited {
 }
 
 a.line {
-     font: 12px serif;
+     font: 14px serif;
      font-style: italic;
      color: #630a01;
 }
