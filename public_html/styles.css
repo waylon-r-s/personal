@@ -6,7 +6,7 @@ body {
 
 /*large headers*/
 h1 {
-      font: bold 22px serif;
+      font: bold 24px serif;
       color: #630a01;
       border-style: none none solid;
       border-color: #200300;
@@ -15,7 +15,7 @@ h1 {
 
 /*medium headers*/
 h2 {
-      font: bold 18px serif;
+      font: bold 20px serif;
       color: #630a01;
       border-style: none none solid;
       border-color: #630a01;
@@ -24,14 +24,14 @@ h2 {
 
 /*paragraphs*/
 p {
-     font: 14px serif;
+     font: 16px serif;
      color: #630a01;
      margin: 25px 250px 25px 250px;
 }
 
 /*paragraphs for excerpts*/
 p.excerpt {
-     font: 14px serif;
+     font: 16px serif;
      color: #630a01;
      border-style: outset;
      border-color: #cfa26b;
@@ -52,18 +52,18 @@ img {
 
 /*links*/
 a:link {
-     font: 16px serif;
+     font: 18px serif;
      color: #ffffff;
 }
 
 a:visited {
-     font: 16px serif;
+     font: 18px serif;
      font-style: italic;
      color: #ffffff;
 }
 
 a.line {
-     font: 14px serif;
+     font: 16px serif;
      font-style: italic;
      color: #630a01;
 }
