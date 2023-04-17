@@ -46,6 +46,7 @@ img {
      border: double;
      border-color: #630a01;
      display: inline-block;
+     text-align: center;
      margin-left: auto;
      margin-right: auto;
 }
