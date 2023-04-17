@@ -45,6 +45,7 @@ img {
      height: auto;
      border: double;
      border-color: #630a01;
+     display: block;
      margin-left: auto;
      margin-right: auto;
 }
@@ -74,7 +75,7 @@ a.line {
      border-color: #400600;
      padding: 16px 32px;
      display: inline-block;
-     text-align: center;
+     text-aligh: center;
      color: #ffffff;
      text-decoration: none;
      font-size: 16px;
@@ -96,9 +97,4 @@ a.line {
      cursor: pointer;
      position: relative;
      top: -75px;
-}
-
-iframe {
-    text-align: center;
-    display: block;
 }
