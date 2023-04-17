@@ -45,7 +45,7 @@ img {
      height: auto;
      border: double;
      border-color: #630a01;
-     display: block;
+     display: inline-block;
      margin-left: auto;
      margin-right: auto;
 }
@@ -101,4 +101,5 @@ a.line {
 
 iframe {
     text-align: center;
+    display: inline-block;
 }
